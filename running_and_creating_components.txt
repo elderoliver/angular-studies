@@ -1,0 +1,6 @@
+how to run app
+ng serve 
+
+how to create components: 
+ng generate component pages/login
+ng generate component pages/dashboard
