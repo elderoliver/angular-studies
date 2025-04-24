@@ -1,0 +1,5 @@
+//install a dependency in the file 
+npm install serve --save
+
+//genarate production files 
+ng build --configuration production
